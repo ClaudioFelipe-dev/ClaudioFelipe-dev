@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! Me chamo Cláudio Felipe. Bem vindo ao meu Perfil!
 
-<!--
-**ClaudioFelipe-dev/ClaudioFelipe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho com SQL
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ClaudioFelipe-dev&show_icons=true&theme=dark">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioFelipe-dev&layout=compact&theme=dark">
+</div>
+
+
+  
+
+
